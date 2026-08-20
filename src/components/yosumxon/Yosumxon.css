@@ -1,0 +1,14 @@
+.section{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-around;
+}
+.h1{
+    font-size: 35px;
+    padding: 20px;
+}
+.p{
+    padding: 20px;
+    font-size: 25px;
+}
