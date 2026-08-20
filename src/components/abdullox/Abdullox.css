@@ -1,0 +1,113 @@
+.plan {
+  width: 100%;
+  background-color: white;
+  padding: 100px 0px;
+}
+
+.pln-wr {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.pln-wr h2 {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.cards-wr {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 30px;
+}
+.cards-wr h3 {
+  font-size: 27px;
+  font-weight: 400;
+}
+
+.card-left-wr,
+.card-right-wr {
+  width: 350px;
+  color: white;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 24px;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+
+.card-right-wr {
+  background-color: #0b0c0f; /* Chuqur to'q fon */
+  background-image: 
+    /* Chap pastki burchakdagi yashil yorug'lik */
+    radial-gradient(
+      circle at 0% 100%,
+      rgba(54, 153, 115, 0.45) 0%,
+      rgba(54, 153, 115, 0) 60%
+    ),
+    /* O'ng pastki burchakdagi binafsha yorug'lik */
+    radial-gradient(
+        circle at 100% 100%,
+        rgba(138, 102, 222, 0.5) 0%,
+        rgba(138, 102, 222, 0) 65%
+      );
+
+  /* Ranglar bir-biriga chiroyli qorishishi uchun */
+  background-blend-mode: normal;
+  color: white;
+  height: 500px;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  border-radius: 24px;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+
+.card-right-wr button {
+  padding: 10px 30px;
+  border: none;
+  width: 100%;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.divcha {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.price {
+  font-size: 30px;
+}
+
+.card-left-wr {
+  color: #0b0c10;
+  height: 420px;
+  gap: 15px;
+}
+
+.card-btn {
+  padding: 10px 30px;
+  border: none;
+  width: 100%;
+  background-color: #965cff;
+  border-radius: 15px;
+  color: white;
+}
