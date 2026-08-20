@@ -5,5 +5,21 @@
     "title": "Birinchi kripto-hamyoningizni hoziroq oching!",
     "text": "Vibrant — brendingiz va mahsulotlaringiz bo‘yicha foydalanuvchilar fikr-mulohazalarini osonlikcha to‘plash uchun eng yaxshi dasturiy platforma.",
     "button": "Template Sotib olish"
+  },
+  "abdullo": {
+    "heading": "Boshlashga tayyormisiz?",
+    "subheading": "Ehtiyojlaringizga mos keladigan rejani tanlang.",
+    "personal_title": "Shaxsiy",
+    "personal_desc": "Doimiy ravishda dizaynga muhtoj bo'lgan brendlar uchun eng yaxshisi.",
+    "business_title": "Biznes",
+    "business_desc": "Doimiy ravishda dizaynga muhtoj bo'lgan brendlar uchun eng yaxshisi.",
+    "price_suffix": "/oy",
+    "button_text": "Bepul sinab ko'rish",
+    "feature_unlimited_requests": "Cheksiz dizayn so'rovlari",
+    "feature_as_you_need": "Ehtiyojga qarab yetkazib berish",
+    "feature_no_revision_limit": "Tuzatishlar soni cheklanmagan",
+    "feature_no_code": "Kod yozish talab etilmaydi",
+    "feature_help_center": "Individual yordam markazi",
+    "feature_personal_mentor": "Sizning shaxsiy mentoringiz"
   }
 }

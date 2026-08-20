@@ -5,5 +5,21 @@
     "title": "Open your first crypto wallet right now",
     "text": "Vibrant is the best software platform to easily capture user feed back for your brand and products",
     "button": "Buy Template"
+  },
+  "abdullo": {
+    "heading": "Ready to get started?",
+    "subheading": "Choose a plan fits to your needs.",
+    "personal_title": "Personal",
+    "personal_desc": "Best for brands that need designs on an ongoing basis.",
+    "business_title": "Business",
+    "business_desc": "Best for brands that need designs on an ongoing basis.",
+    "price_suffix": "/mo",
+    "button_text": "Try For Free",
+    "feature_unlimited_requests": "Request unlimited designs",
+    "feature_as_you_need": "Deliverables as-you-need",
+    "feature_no_revision_limit": "No limit on revisions",
+    "feature_no_code": "No code needed",
+    "feature_help_center": "Individual help center",
+    "feature_personal_mentor": "Your personal mentor"
   }
 }
