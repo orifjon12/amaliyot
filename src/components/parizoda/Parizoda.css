@@ -1,0 +1,23 @@
+.people {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  margin: auto;
+}
+.say {
+  width: 337px;
+  height: 60px;
+  text-align: center;
+  position: relative;
+  left: 400px;
+  color: #262c3b;
+}
+.head {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.discription {
+  font-size: 18px;
+  color: #252b3b;
+}

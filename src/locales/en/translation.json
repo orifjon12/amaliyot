@@ -5,5 +5,17 @@
     "title": "Open your first crypto wallet right now",
     "text": "Vibrant is the best software platform to easily capture user feed back for your brand and products",
     "button": "Buy Template"
+  },
+
+  "people": {
+    "bryanOne": "Fusce quis sapien tristique mauris tempor tristique. Donec efficitur gravida nibh, ac aliquet diam volutpat non.",
+    "bryanTwo": "Morbi at metus accumsan, posuere mi quis, tempus tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "bryanThree": "Mauris nulla ex, rutrum vitae faucibus cursus, bibendum nec arcu.",
+    "bryanFour": "Mauris nulla ex, rutrum vitae faucibus cursus, bibendum nec arcu.",
+    "bryanFive": "Curabitur gravida placerat purus nec bibendum. Proin porttitor varius risus blandit dictum. Vestibulum at erat ut velit egestas venenatis sit amet nec metus.",
+    "bryanSix": "Curabitur gravida placerat purus nec bibendum. Proin porttitor varius risus blandit dictum.",
+    "bryanSeven": "Curabitur gravida placerat purus nec bibendum. Proin porttitor varius risus blandit dictum.",
+    "bryanEight": "Donec efficitur gravida nibh, ac aliquet diam volutpat non.",
+    "bryanNine": "Fusce quis sapien tristique mauris tempor tristique. Donec efficitur gravida nibh, ac aliquet diam volutpat non."
   }
 }
